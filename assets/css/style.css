@@ -1,0 +1,33 @@
+body{
+  background-image: url("https://orig00.deviantart.net/612e/f/2012/364/2/9/multiverse_1_by_janrobbe-d5pqx9s.png");
+}
+
+h1{
+  text-align: center;
+}
+
+#gameTitle{
+  background-color: white;
+  font-size: 35pt;
+  width:700px;
+  margin:auto;
+  border: 5px black solid;
+}
+
+.subTitle{
+  background-color: white;
+  text-align: left;
+  font-size: 30pt;
+  width:700px;
+}
+
+.wtBack{
+  background-color: white;
+  width:250px;
+}
+
+.scores{
+  background-color: white;
+  font-size: 25pt;
+  width:250px;
+}
